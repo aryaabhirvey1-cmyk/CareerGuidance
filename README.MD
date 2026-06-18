@@ -410,31 +410,6 @@ Render generates:
 https://your-app.onrender.com
 ```
 
----
-
-# 🌍 Deploy Frontend on Vercel
-
-Install CLI:
-
-```bash
-npm install -g vercel
-```
-
-Login:
-
-```bash
-vercel login
-```
-
-Deploy:
-
-```bash
-vercel
-```
-
-Follow terminal instructions.
-
----
 
 # 🐙 GitHub Setup
 
